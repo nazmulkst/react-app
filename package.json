@@ -5,13 +5,19 @@
   "dependencies": {
     "axios": "^0.27.2",
     "bootstrap": "^5.2.0",
+    "cleave.js": "^1.6.0",
     "cogo-toast": "^4.2.3",
     "export-from-json": "^1.6.0",
+    "html-to-image": "^1.9.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.4.0",
+    "react-code-input": "^3.10.1",
     "react-dom": "^18.2.0",
     "react-html-parser": "^2.0.2",
-    "react-scripts": "^5.0.1"
+    "react-icons": "^4.4.0",
+    "react-localforage": "^1.0.1",
+    "react-scripts": "^5.0.1",
+    "read-excel-file": "^5.4.4"
   },
   "scripts": {
     "start": "react-scripts start",
